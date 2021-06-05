@@ -35,7 +35,7 @@ async function tellMeAJoke() {
         src: joke,
         hl: 'en-in',
         v: 'Ajit',
-        r: 1, 
+        r: 0, 
         c: 'mp3',
         f: '44khz_16bit_stereo',
         ssml: false
