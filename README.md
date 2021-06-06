@@ -6,5 +6,6 @@ Having a tough day with codes. My programmer buddy is here to crack you up a lit
 ### Improvements (TODO)
 * Display jokes along with option to hear it.
 * Option to choose between different English accents.
+* Lesser fetch requests by fetching multiple jokes at once.
 
 ### FEEDBACKS/SUGGESTIONS are welcome!
